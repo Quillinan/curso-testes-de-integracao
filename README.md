@@ -15,6 +15,5 @@ Passo a passo:
 
 - Comandos para inserir no script(opcional):
   
-  
   --coverage : Mostrar a área de atuação dos testes nos componentes do código
   --verbose : Mostrar o console.log dos arquivos jest
