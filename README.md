@@ -13,7 +13,6 @@ Passo a passo:
 
 - Configurar o script
 
-Comandos:
-
-- toBe : validar valores estritamente iguais
-- toEqual : validar valores iguais sem levar o tipo em consideração
+- Comandos para inserir no script(opcional):
+   --coverage
+   --verbose
