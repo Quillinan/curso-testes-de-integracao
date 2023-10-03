@@ -14,5 +14,5 @@ Passo a passo:
 - Configurar o script
 
 - Comandos para inserir no script(opcional):
-   --coverage
-   --verbose
+  --coverage
+  --verbose
