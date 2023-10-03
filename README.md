@@ -16,6 +16,12 @@ Passo a passo:
 
 - Comandos para inserir no script(opcional):
   
-  --coverage : Mostrar a área de atuação dos testes nos componentes do código
+  --coverage : Gerar um relatório de cobertura dos testes no código
   
   --verbose : Mostrar o console.log dos arquivos jest
+
+  --watch : Automatizar os testes para rodarem sempre que algo no código é alterado
+
+  --runInBand : Executar os testes paralelamente, ao invés de serialmente
+
+  --collectCoverageFrom='caminho do arquivo' : Gera um relatório de cobertura dos testes de arquivos selecionados
